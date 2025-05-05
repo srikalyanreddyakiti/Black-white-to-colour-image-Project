@@ -12,6 +12,7 @@ Install dependencies:
 pip install opencv-python numpy
 
 📁 Project Structure
+
 model/
 
 colorization_deploy_v2.prototxt – Model architecture
